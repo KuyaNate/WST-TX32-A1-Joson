@@ -53,10 +53,13 @@
 
                     <div class="mx-auto pt-5 col-4 col-sm-3 col-md-3 col-lg-3 col-xl-3">
                         <h3 class = "fw-bold cyan">GROUP 1</h3>
-                        <p class = "center">N/A</p>
-                        <p class = "center">N/A</p>
-                        <p class = "center">N/A</p>
-                        <p class = "center">N/A</p>
+                        <p class = "center">Tiratira, Ezekiel</p>
+                        <p class = "center">tolentino, Ghenvic</p>
+                        <p class = "center">Bustamante, Paolo</p>
+                        <p class = "center">Joson, John Albert</p>
+                        <p class = "center">Quimora, Byron</p>
+                        <p class = "center">Paloma, Lourence Axl</p>
+                        <p class = "center">Tipo, Hannah</p>
                     </div>
 
                     <div class="mx-auto pt-5 col-8 col-sm-9 col-md-3 col-lg-3 col-xl-3">
